@@ -4,6 +4,7 @@
 	text-decoration:none;
 	list-style:none;
 	font-family:sans-serif;
+
 }
 
 body{
@@ -12,27 +13,19 @@ body{
 
 }
 
-.header{
-
-	background: url("../imagenes/imagen-calculadora.png") 20px 20px, blue ;
-	background-repeat: no-repeat;
+center{
 	position:relative;
 	margin:20px auto;
 	width:600px;
-	height:80px;
+	height:60px;
 	text-align:center;
-	line-height:80px;
-	/* background:blue; */
+	line-height:60px;
+	background:blue;
 	color:white;
 	font-weight:bold;
 	border:5px solid #ccc;
-	border-radius:20px;
-	;
-
+	border-radius:20px;	
 }
-
-
-
 
 #calculadora{	
 	position:relative;
