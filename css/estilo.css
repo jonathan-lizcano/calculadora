@@ -8,31 +8,24 @@
 }
 
 body{
+	
+	background-color: rgb(169, 210, 238);
 
-	background: rgb(144, 192, 246);
 }
 
-.header{
-
-	background: url("../imagenes/imagen-calculadora.png") 20px 20px, blue ;
-	background-repeat: no-repeat;
+center{
 	position:relative;
 	margin:20px auto;
 	width:600px;
-	height:80px;
+	height:60px;
 	text-align:center;
-	line-height:80px;
-	/* background:blue; */
+	line-height:60px;
+	background:blue;
 	color:white;
 	font-weight:bold;
 	border:5px solid #ccc;
-	border-radius:20px;
-	;
-
+	border-radius:20px;	
 }
-
-
-
 
 #calculadora{	
 	position:relative;
